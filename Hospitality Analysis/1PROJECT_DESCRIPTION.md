@@ -4,6 +4,10 @@ A fully interactive **Power BI dashboard** built to analyze hospital waiting lis
 
 ---
 
+## Dashboard Snapshot
+
+<img width="1312" height="745" alt="image" src="https://github.com/user-attachments/assets/070f920d-f5b6-4351-b7db-e32cc455a295" />
+
 ## 🔍 Key Features
 
 * 📅 **Time-Based Comparison**
