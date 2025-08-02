@@ -27,7 +27,7 @@ An interactive **Power BI dashboard** built to visualize and compare placement t
 ---
 
 ## 📸 Dashboard Preview
-
+<img width="1367" height="731" alt="preview" src="https://github.com/user-attachments/assets/3ce8259b-bcfc-4d68-b9d8-6f58a6189111" />
 
 
 ---
@@ -39,5 +39,6 @@ An interactive **Power BI dashboard** built to visualize and compare placement t
 * For **policy makers** to identify national trends in technical education
 * For **recruiters** targeting institutes with strong placement performance
 * For **researchers and academic planners** analyzing trends in higher studies participation
+
 
 ---
