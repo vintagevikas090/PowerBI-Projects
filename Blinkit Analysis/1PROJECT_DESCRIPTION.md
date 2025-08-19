@@ -4,6 +4,11 @@ Welcome to the **Blinkit Sales Analysis Dashboard** — a sleek, interactive bus
 
 ---
 
+## Dashboard Snapshot
+<img width="1476" height="733" alt="dashboard" src="https://github.com/user-attachments/assets/9ba371db-0679-4c3d-8d7d-ef564fd72369" />
+
+---
+
 ## 🚀 Project Overview
 
 This project delivers a multi-dimensional analysis of Blinkit's operations, enabling stakeholders to explore and understand:
@@ -40,3 +45,4 @@ This project delivers a multi-dimensional analysis of Blinkit's operations, enab
 * Guide supply chain and inventory decisions
 * Monitor and improve customer satisfaction metrics
 ---
+
